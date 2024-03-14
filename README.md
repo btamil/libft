@@ -1,4 +1,4 @@
-libft is first project at 42 Abu dhabi school. This project is about building a own library as if C standard libray and use it in further projects.
+Libft is first project at 42 Abu dhabi school. This project is about building a own library as if C standard libray and use it in further projects.
 Implemented following Libc functions to manipulate string, memory and Linked list.
 Functions to check and manipulate characters:
 
